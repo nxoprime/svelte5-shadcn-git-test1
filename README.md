@@ -9,3 +9,6 @@
 - npx shadcn-svelte@next init
 - npm install lucide-svelte
 - npx shadcn-svelte@next add (all)
+
+#### Install dark-light mode
+- npm install mode-watcher
