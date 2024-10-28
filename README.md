@@ -12,3 +12,6 @@
 
 #### Install dark-light mode
 - npm install mode-watcher
+
+#### Install resizable panel
+- npx shadcn-svelte@next add resizable
