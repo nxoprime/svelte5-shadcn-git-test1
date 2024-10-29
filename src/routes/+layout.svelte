@@ -7,7 +7,7 @@
 
   import '../app.css';
   let { children } = $props();
-  
+
 </script>
 
 <ModeWatcher />
@@ -33,7 +33,8 @@
 
   <Resizable.Pane>
 
-    <Resizable.PaneGroup direction="horizontal"> 
+
+	<Resizable.PaneGroup direction="horizontal"> 
       <Resizable.Pane 
 	  	defaultSize={20}>
         <div class="flex h-full items-center justify-center p-6">
